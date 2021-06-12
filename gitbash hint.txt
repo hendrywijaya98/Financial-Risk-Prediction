@@ -1,2 +1,0 @@
-if the github is on master 
-$ git branch -M main
